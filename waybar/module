@@ -1,0 +1,7 @@
+"custom/todo": {
+   "exec": "~/path/to/scripts/todo_stat.sh",
+  "interval": 10,
+  "on-click": "~/path/to/scripts/todo_init.sh" ,
+  "return-type": "json",
+  "tooltip": true
+}
