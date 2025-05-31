@@ -3,5 +3,5 @@
 waybar module included
 
 to use
-replace all the ~/path/to/scripts to your intented paths
+replace all the ~/path/to/scripts to your intented paths then
 enjoy
